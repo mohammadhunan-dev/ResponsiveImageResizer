@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mongomoe/ResponsiveImageResizer/issues"
   },
-  "homepage": "https://github.com/mongomoe/ResponsiveImageResizer#readme"
+  "homepage": "https://github.com/mongomoe/ResponsiveImageResizer#readme",
+  "dependencies": {
+    "sharp": "^0.31.3"
+  }
 }

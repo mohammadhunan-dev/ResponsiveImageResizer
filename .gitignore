@@ -1,1 +1,4 @@
 node_modules/
+input.png
+output/
+.DS_Store
